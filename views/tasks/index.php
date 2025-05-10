@@ -1,3 +1,4 @@
+<!
 <h1>Liste des tâches</h1>
 <a href="index.php?action=create">Ajouter une tâche</a>
 <ul>
@@ -12,3 +13,4 @@
  </li>
 <?php endforeach; ?>
 </ul>
+!>
